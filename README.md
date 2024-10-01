@@ -1,5 +1,5 @@
 
-<img src="images/job-portal-screenshot.png" alt="Job Portal Screenshot" width="600">  <!-- Update this path to your image -->
+<img src="https://github.com/Omar7tech/screenshots/blob/main/Safe Stock/logo.png" alt="Screenshot 1" width="400">
 # Pixel Positions - Job Portal Project
 
 ## Overview
