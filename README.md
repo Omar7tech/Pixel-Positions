@@ -1,5 +1,6 @@
 
-<img src="https://github.com/Omar7tech/screenshots/blob/main/Safe Stock/logo.png" alt="Screenshot 1" width="400">
+<img src="https://github.com/Omar7tech/screenshots/blob/main/Firefox_Screenshot_2024-10-01T22-05-19.407Z.png" alt="Screenshot 1" width="400">
+
 # Pixel Positions - Job Portal Project
 
 ## Overview
