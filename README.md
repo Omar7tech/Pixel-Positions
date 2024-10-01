@@ -1,3 +1,44 @@
+
+<img src="images/job-portal-screenshot.png" alt="Job Portal Screenshot" width="600">  <!-- Update this path to your image -->
+# Pixel Positions - Job Portal Project
+
+## Overview
+
+This project is a comprehensive Job Portal built with Laravel 11, utilizing Tailwind CSS for styling and DaisyUI for UI components. It allows employers and users to manage job positions effectively, showcasing the ability to create, read, update, and delete (CRUD) job postings. The application provides users with the ability to search for jobs, view related tags, and see employer profiles, including job statistics.
+
+## Features
+
+- **Authentication & Authorization**: Secure user login and registration processes.
+- **CRUD Operations**: Employers can create, update, and delete job postings.
+- **Job Search**: Users can search for job positions based on various criteria.
+- **Tag Management**: Jobs are associated with tags using pivot tables, enhancing the search experience.
+- **Company Profiles**: Users can view employer profiles and see statistics on job postings and salaries.
+- **Pagination**: Efficiently handle large sets of job listings.
+- **View Binding & Blade Components**: Enhanced UI with reusable Blade components and effective data binding.
+- **Validation Requests**: Ensure data integrity with robust request validation.
+- **Testing with Pest**: Implemented tests to ensure application reliability.
+- **SQLite Storage**: Utilizing SQLite for a lightweight database solution.
+- **Factories & Seeders**: Easily generate sample data for testing and development.
+- **Policies & Gates**: Implemented for fine-grained access control.
+- **Array Functions & Collections**: Utilized Laravel’s powerful collection methods for data manipulation.
+
+## Technology Stack
+
+- **Laravel 11**
+- **Tailwind CSS**
+- **DaisyUI**
+- **Vite**
+- **JavaScript & HTML**
+- **Pest for Testing**
+- **SQLite Database**
+
+## Acknowledgements
+
+Special thanks to Laracasts and Jeffrey Way for providing an exceptional learning experience. This project serves as both a refresher and an enhancement of my existing Laravel skills, demonstrating my ability to implement advanced features in a modern web application.
+
+
+<hr/>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
